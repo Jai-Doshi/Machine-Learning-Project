@@ -29,7 +29,7 @@ This Project Covers the Topics of Machine Learning
    [Google Slides](#)
    
  
-[News Prediction](#)
+[News Prediction](https://news-detection-ml-model.herokuapp.com/)
 
 ![Image of News Prediction](https://1.bp.blogspot.com/-_Hg3EbrcfcI/XFSGUZ1nZXI/AAAAAAAABwI/8Tv760h5c5IARp_ZHFwDP5KTM71rgTXQwCLcBGAs/w1200-h630-p-k-no-nu/software-and-machine-learning-algorithms-to-detect-fake-news.jpg)
 
